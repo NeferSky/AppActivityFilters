@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppActivityFilters</string>
+    <string name="first">First</string>
+    <string name="addOne">Add One</string>
+    <string name="title_activity_second_">Second_Activity</string>
+    <string name="title_activity_third_">Third_Activity</string>
+    <string name="third">Third</string>
+    <string name="second">Second</string>
+</resources>
